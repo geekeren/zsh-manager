@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 PRIMARY_YARN_CACHE_FOLDER=/Users/bywang/Library/Caches/Yarn
 SECOND_YARN_CACHE_FOLDER=/Volumes/BaiyuanSSD/Caches/Yarn
 if [ -d "$SECOND_YARN_CACHE_FOLDER" ]; then
