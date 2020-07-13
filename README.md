@@ -1,1 +1,2 @@
 # zsh-manager
+# nativeCI
