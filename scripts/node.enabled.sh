@@ -10,3 +10,5 @@ fi
 if [ -f "$(pwd)/package.json" ]; then
     echo -e "Yarn is using cache at: \e[33m$(yarn cache dir)"
 fi
+
+export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
